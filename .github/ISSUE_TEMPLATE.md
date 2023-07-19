@@ -1,14 +1,9 @@
 <!--
 
-Note: If you are using www.overleaf.com and have a problem, 
-      or if you would like to request a new feature please contact
-      the support team at support@overleaf.com
-      
-      This form should only be used to report bugs in the 
-      Community Edition release of Overleaf.
+Note: If have a problem with your account, you can also contact the support team at info@eetlijst.nl
 
+NEVER share personal information, such as email of password. These will be asked privately is neccesary.
 -->
-
 
 
 <!-- BUG REPORT TEMPLATE -->
@@ -36,8 +31,7 @@ Note: If you are using www.overleaf.com and have a problem,
 
 * URL:
 * Browser Name and version:
-* Operating System and version (desktop or mobile):
-* Signed in as:
+* Operating System (MacOS, Windows, Linux, Android, iOS, ...):
 * Project and/or file:
 
 ## Analysis
